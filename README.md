@@ -2,6 +2,10 @@
 
 A beautiful, animated React component that showcases developer statistics and achievements with smooth, interactive animations. Built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
+## 🔥 Live Demo
+
+Check out the live demo: [Dev Card Demo](https://react-animated-card-three.vercel.app)
+
 ## ✨ Features
 
 - 🎨 Modern, gradient-bordered design
