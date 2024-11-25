@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules
+
+# Build output
+/dist/
+
+# Log files
+*.log
+
+# npm package-lock or yarn.lock
+package-lock.json
+
+# dotenv environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
